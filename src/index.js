@@ -7,15 +7,16 @@ function fcifrar () {
     let offset = parseInt(document.getElementById('offsetHTML').value);
     let resultadoCifrado = cipher.encode(textarea, offset);
     document.getElementById("resultado").innerHTML=resultadoCifrado;
-    console.log(resultadoCifrado);
-console.log(textarea);
-console.log(offset);
+   // console.log(resultadoCifrado);
+   //console.log(textarea);
+   // console.log(offset);
 }
 
 function fdescifrar () {
 let textarea2 = document.getElementById('textareaHTML2').value;
 let offset = parseInt(document.getElementById('offsetHTML').value);
 let resultadoDescifrado = cipher.decode(textarea2, offset);
+document.getElementById("resultado2").innerHTML=resultadoDescifrado;
 }
 
 cifrar.addEventListener('click', fcifrar);

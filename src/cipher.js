@@ -11,8 +11,8 @@ window.cipher = {
       let textoCifrado = String.fromCharCode(ASCII);
       
       resultadoCifrado += textoCifrado;
-      console.log(resultadoCifrado); 
-      console.log(offset);    
+     // console.log(resultadoCifrado); 
+     // console.log(offset);    
   }
   return resultadoCifrado; 
 },
@@ -24,13 +24,13 @@ window.cipher = {
       for (let i=0; i < textarea2.length; i++) {
       
       let texto = textarea2[i].charCodeAt(0);
-      let ASCII = (texto - 65 - offset) % 26 + 65;
+      let ASCII = (texto - 13 - offset) % 26 + 65;
       let textoDescifrado = String.fromCharCode(ASCII);
       
       resultadoDescifrado += textoDescifrado;
 
-      console.log(resultadoDescifrado); 
-      console.log(offset);
+      // console.log(resultadoDescifrado); 
+      // console.log(offset);
 }
 return resultadoDescifrado; 
 }};
