@@ -1,23 +1,21 @@
 window.cipher = {
 
-  encode (textarea, offset) {
+  encode: (textarea, offset) => {
 
     let resultadoCifrado = '';
 
       for (let i=0; i < textarea.length; i++) {
-      
+      let ASCII =0;
       let texto = textarea[i].charCodeAt(0);
-      let ASCII = (texto - 65 + offset) % 26 + 65;
+      ASCII = (texto - 65 + offset) % 26 + 65;
       let textoCifrado = String.fromCharCode(ASCII);
       
-      resultadoCifrado += textoCifrado;
-     // console.log(resultadoCifrado); 
-     // console.log(offset);    
-  }
-  return resultadoCifrado; 
-},
+      resultadoCifrado += textoCifrado;  
+    }
+    return resultadoCifrado; 
+  },
 
-  decode (textarea2, offset) {
+  decode: (textarea2, offset) => {
 
     let resultadoDescifrado = '';
 
@@ -29,8 +27,7 @@ window.cipher = {
       
       resultadoDescifrado += textoDescifrado;
 
-      // console.log(resultadoDescifrado); 
-      // console.log(offset);
-}
-return resultadoDescifrado; 
-}};
+    }
+    return resultadoDescifrado; 
+  }
+};
