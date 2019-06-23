@@ -56,27 +56,6 @@ De 2010 a 2014 se produjeron en todo el mundo 25 millones de abortos peligrosos 
 
 «Cuando las mujeres y las niñas no pueden acceder a servicios eficaces de anticoncepción y aborto seguro, hay graves consecuencias para su propia salud y la de sus familias. Esto no debería pasar. Sin embargo, pese a la evidencia y a los recientes avances en materia de tecnología, siguen produciéndose demasiados abortos peligrosos y demasiadas mujeres continúan sufriendo y muriendo».
 
-<strong>Datos y cifras</strong>
-
-La tasa de abortos fue mayor en las regiones en desarrollo que en las desarrolladas.
-Según los cálculos, cada año hubo en el mundo unos 25 millones de abortos sin condiciones de seguridad, casi todos ellos en países en desarrollo.
-De ellos, 8 millones fueron practicados en las condiciones que menos seguridad ofrecen, o condiciones peligrosas.
-<br>
-En Asia se concentraron más de la mitad del total estimado de abortos sin condiciones de seguridad que hubo en el mundo.
-3 de cada 4 abortos practicados en África y América Latina discurrieron sin condiciones de seguridad.
-<br>
-El riesgo más elevado de morir a consecuencia de un aborto sin condiciones de seguridad se situaba en África.
-Entre un 4,7% y un 13,2% de la mortalidad materna anual puede atribuirse a un aborto sin condiciones de seguridad (2).
-<br>
-En los países en desarrollo, cada año hay alrededor de 7 millones de mujeres que son hospitalizadas a consecuencia de un aborto sin condiciones de seguridad.
-Se calcula que el costo anual del tratamiento de las principales complicaciones resultantes de un aborto sin condiciones de seguridad asciende a $553 millones.
-<br>
-Los abortos seguros deben ser practicados o secundados por una persona debidamente formada que aplique métodos recomendados por la OMS acordes con el tiempo de embarazo de la paciente.
-Es posible prevenir casi todos los casos de muerte o discapacidad a consecuencia de un aborto mediante la educación sexual, el uso de métodos anticonceptivos eficaces, la práctica de abortos provocados legales y seguros y la atención a tiempo de las complicaciones.
-El aborto peligroso se produce cuando una persona carente de la capacitación necesaria pone fin a un embarazo, o se hace en un entorno que no cumple las normas médicas mínimas, o cuando se combinan ambas circunstancias.
-<br>
-Las personas, capacidades y normas médicas consideradas seguras para realizar un aborto son diferentes para el aborto médico (que se realiza sólo con medicación) y del aborto quirúrgico (que se realiza con una aspiradora manual o eléctrica). La capacitación y las normas médicas requeridas para realizar un aborto seguro también varían en función de la duración del embarazo y de los cambiantes progresos científicos y técnicos.
-
 Las mujeres, incluidas las adolescentes, con embarazos no deseados suelen recurrir al aborto peligroso si no pueden acceder al aborto seguro. Los obstáculos para acceder al aborto seguro incluyen:
 
 • Legislación restrictiva
