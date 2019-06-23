@@ -1,6 +1,5 @@
 # 🌿C O L E C T I V O   V R T E M I S V 🌿<h1>
 
-
 La página web de Coletivo Artemisa, es una página web de distribución de pastillas abortivas gratuitas, para ayudar a las mujeres que deseen terminar con su embarazo sin importar su caso. La página consta de de un instrucctivo simple y una caja de texto dónde las mujeres deben enviar sus datos atráves de un mensaje encriptado. Al pasar unas semanas, recibirán el paquete con pastillas a la dirección indicada, junto a una carta
 cifrada que deberan descifrar en la caja de texto anteriormente mencionada, ahí encontrará el instructivo de las pastillas, cuidados previos y posteriores al aborto, y usuario de telegram de alguna doula si es que así fue solicitada, esta puede ser online (chat) o presencial, previo 
 al aborto, durante y posterior al procedimiento conforme al acuerdo mutuo de la parte y voluntad de nuestras voluntarias como doulas.
@@ -43,7 +42,7 @@ notoriedad al menú y posteriomente fue eliminado por completo, para que fuera m
 
 • El cuarto test fue realizado con la aplicación web ya terminada y fue resgitrada en el siguiente vídeo:
 
-<video src=video/video1.mp4>
+<video src=video/video1.mp4  width="640" height="480"></video>
 
 
 # Problemática 🥀
@@ -95,4 +94,4 @@ En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tie
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
 
-<img src=SCL010-Cipher/images/imagen1.jpg>
+<img src=SCL010-Cipher/images/imagen1.jpg  width="640" height="480">
