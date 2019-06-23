@@ -92,4 +92,4 @@ Las mujeres, incluidas las adolescentes, con embarazos no deseados suelen recurr
 En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tienen los recursos para acceder a un procedimiento
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
-<img src=images/imagen2.jpg width="1593" height="905">
+<img src=images/imagen1.jpg width="1593" height="905">
