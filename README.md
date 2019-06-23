@@ -1,4 +1,4 @@
-<h1 position: center> 🌿C O L E C T I V O   V R T E M I S V 🌿<h1>
+# 🌿C O L E C T I V O   V R T E M I S V 🌿<h1>
 <hr>
 
 La página web de Coletivo Artemisa, es una página web de distribución de pastillas abortivas gratuitas, para ayudar a las mujeres que deseen terminar con su embarazo sin importar su caso. La página consta de de un instrucctivo simple y una caja de texto dónde las mujeres deben enviar sus datos atráves de un mensaje encriptado. Al pasar unas semanas, recibirán el paquete con pastillas a la dirección indicada, junto a una carta
