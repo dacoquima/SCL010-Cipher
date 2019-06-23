@@ -2,8 +2,14 @@
     background-position: center;
 }
 
+hr {
+    color: #FFFFFF;
+    margin-left: 28%;
+    margin-right: 28%;
+}
+
 body {
-    background: #FFFFFF;
+    background: #ac9da2;
     background-position-x: center;
     margin: 2%;
     text-align: center;
@@ -14,51 +20,30 @@ body {
 
 h1 {
     text-align: center;
-    margin: 2%;
+    font-family: serif;
+    font-style: italic;
+    font-size: 238%;
+    margin: 3%;
     margin-top: 3%;
-    color: #71999b; 
-}
-
-nav {
-    display: block;
-    outline: 1px;
-}
-
-ul {
-    outline: 1px;
-    list-style: none;
-    padding: 0%;
-    margin: 0%;
-    font-size: 85%;
-    text-align: center;
-}
-
-li {
-    outline: 1px;
-    width: 100px;
-    display: inline-block;
+    color: #FFFFFF;
 }
 
 a {
     outline: 5px;
-    color: #71999b;
+    color: #FFFFFF;
 
 }
 
 p {
     text-align: justify;
-    margin-right: 10%;
-    margin-left: 10%;
+    margin-right: 28%;
+    margin-left: 28%;
     margin-top: 2%;
-    color: #71999b;
+    color: #FFFFFF;
 }
 
 input {
     background-position-x: center;
-    margin-top: 1%;
-}
-
-textarea {
     margin-top: 1%;
 }
 
@@ -83,14 +68,3 @@ textarea {
     margin-top: 3%;
 }
 
-#cuidados {
-    display: none;
-}
-
-#doulas {
-    display: none;
-}
-
-#testimonios {
-    display: none;
-}
