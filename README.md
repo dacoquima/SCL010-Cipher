@@ -1,4 +1,4 @@
-#🌿 C O L E C T I V O   V R T E M I S V 🌿
+# 🌿C O L E C T I V O   V R T E M I S V 🌿
 
 La página web de Coletivo Artemisa, es una página web de distribución de pastillas abortivas gratuitas, para ayudar a las mujeres que deseen terminar con su embarazo sin importar su caso. La página consta de de un instrucctivo simple y una caja de texto dónde las mujeres deben enviar sus datos atráves de un mensaje encriptado. Al pasar unas semanas, recibirán el paquete con pastillas a la dirección indicada, junto a una carta
 cifrada que deberan descifrar en la caja de texto anteriormente mencionada, ahí encontrará el instructivo de las pastillas, cuidados previos y posteriores al aborto, y usuario de telegram de alguna doula si es que así fue solicitada, esta puede ser online (chat) o presencial, previo 
@@ -22,7 +22,7 @@ mayor facilidad, por lo cuál se decidió generar parráfos y generar margenes p
 notoriedad al menú y posteriomente fue eliminado por completo, para que fuera más cómodo para las usuarias.
 
 
-#Diseño 💟
+# Diseño 💟
 
 Para el diseño de la página se tomaron referencias de plantillas simples, para facilidad de uso y entendimiento para aquellas mujeres que 
 entendemos que estan pasando por momento de estrés, el color se hizo pensando en la sororidad y tranquilidad que queríamos transmitir.
@@ -63,27 +63,29 @@ El riesgo más elevado de morir a consecuencia de un aborto sin condiciones de s
 Entre un 4,7% y un 13,2% de la mortalidad materna anual puede atribuirse a un aborto sin condiciones de seguridad (2).
 En los países en desarrollo, cada año hay alrededor de 7 millones de mujeres que son hospitalizadas a consecuencia de un aborto sin condiciones de seguridad.
 Se calcula que el costo anual del tratamiento de las principales complicaciones resultantes de un aborto sin condiciones de seguridad asciende a $553 millones4.
+<br>
 Los abortos seguros deben ser practicados o secundados por una persona debidamente formada que aplique métodos recomendados por la OMS acordes con el tiempo de embarazo de la paciente.
 Es posible prevenir casi todos los casos de muerte o discapacidad a consecuencia de un aborto mediante la educación sexual, el uso de métodos anticonceptivos eficaces, la práctica de abortos provocados legales y seguros y la atención a tiempo de las complicaciones.
 El aborto peligroso se produce cuando una persona carente de la capacitación necesaria pone fin a un embarazo, o se hace en un entorno que no cumple las normas médicas mínimas, o cuando se combinan ambas circunstancias.
+<br>
 Las personas, capacidades y normas médicas consideradas seguras para realizar un aborto son diferentes para el aborto médico (que se realiza sólo con medicación) y del aborto quirúrgico (que se realiza con una aspiradora manual o eléctrica). La capacitación y las normas médicas requeridas para realizar un aborto seguro también varían en función de la duración del embarazo y de los cambiantes progresos científicos y técnicos.
 
 Las mujeres, incluidas las adolescentes, con embarazos no deseados suelen recurrir al aborto peligroso si no pueden acceder al aborto seguro. Los obstáculos para acceder al aborto seguro incluyen:
 
-legislación restrictiva;
-poca disponibilidad de servicios;
-costos elevados;
-estigmatización;
-objeción de conciencia del personal sanitario;
-requisitos innecesarios tales como:
-períodos de espera obligatorios
-asesoramiento obligatorio
-suministro de información engañosa
-autorización de terceros
-pruebas médicas innecesarias que retrasan la atención.
+• Legislación restrictiva
+• Poca disponibilidad de servicios
+• Costos elevados
+• Eestigmatización
+• Objeción de conciencia del personal sanitario
+• Requisitos innecesarios tales como:
+- Períodos de espera obligatorios
+- Asesoramiento obligatorio
+- Suministro de información engañosa
+- Autorización de terceros
+- Pruebas médicas innecesarias que retrasan la atención.
 
 
-##Solución 🌹
+# Solución 🌹
 En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tienen los recursos para acceder a un procedimiento
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
