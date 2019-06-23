@@ -1,5 +1,5 @@
 # 🌿C O L E C T I V O   V R T E M I S V 🌿<h1>
-<hr>
+
 
 La página web de Coletivo Artemisa, es una página web de distribución de pastillas abortivas gratuitas, para ayudar a las mujeres que deseen terminar con su embarazo sin importar su caso. La página consta de de un instrucctivo simple y una caja de texto dónde las mujeres deben enviar sus datos atráves de un mensaje encriptado. Al pasar unas semanas, recibirán el paquete con pastillas a la dirección indicada, junto a una carta
 cifrada que deberan descifrar en la caja de texto anteriormente mencionada, ahí encontrará el instructivo de las pastillas, cuidados previos y posteriores al aborto, y usuario de telegram de alguna doula si es que así fue solicitada, esta puede ser online (chat) o presencial, previo 
@@ -12,15 +12,12 @@ La encriptación de la página será con el ingreso sólo de mayúsculas y sera 
 de la usuaria.
 
 
-# Test de Usabilidad 👥
+# Instrucciones ✍
+Al ingresar a la página, se deberá leer un breve instructivo en la parte superior, que indica los datos a ingresar en la caja de texto de la parte de abajo, se solicitaran sólo mayúsculas y se le comunica a la usuaria que tras recibir el paquete solicitado, junto con él, llegará una carta que se deberá descifrar en la misma caja de texto, dandole click a l botón "Descifrar carta".
 
-• La primera prueba fue con una mujer que comento ser dificíl de leer el instructivo en primera instancia ya que el parráfo era muy largo, al igual que los márgenes. Indico tambien que al solicitar datos especificos, sería más fácil hacer una lista de aquellos para poder re-leerla con
-mayor facilidad, por lo cuál se decidió generar parráfos y generar margenes para que fuera de lectura más fácil.
 
-• La segunda prueba, la usuaria no comprendio que debía cifrar el texto y luego enviarlo, por lo cuál el botón de "Cifrar y enviar" se unieron.
-
-• En la tercera prueba, la usuaria indicó no haber leído el menú (al igual que la anterior al consultarle), por lo tanto se decidió darle más
-notoriedad al menú y posteriomente fue eliminado por completo, para que fuera más cómodo para las usuarias.
+# Usuarios obejtivos 👩
+Las usuarias objetivas serán mujeres con embarazos no deaseados.
 
 
 # Diseño 💟
@@ -34,12 +31,19 @@ idea se fue armando en el camino y el diseño fue una epifania.
 <img src=images/vrtemisvgif.gif>
 
 
-# Instrucciones ✍
-Al ingresar a la página, se deberá leer un breve instructivo en la parte superior, que indica los datos a ingresar en la caja de texto de la parte de abajo, se solicitaran sólo mayúsculas y se le comunica a la usuaria que tras recibir el paquete solicitado, junto con él, llegará una carta que se deberá descifrar en la misma caja de texto, dandole click a l botón "Descifrar carta".
+# Test de Usabilidad 👥
 
+• La primera prueba fue con una mujer que comento ser dificíl de leer el instructivo en primera instancia ya que el parráfo era muy largo, al igual que los márgenes. Indico tambien que al solicitar datos especificos, sería más fácil hacer una lista de aquellos para poder re-leerla con
+mayor facilidad, por lo cuál se decidió generar parráfos y generar margenes para que fuera de lectura más fácil.
 
-# Usuarios obejtivos 👩
-Las usuarias objetivas serán mujeres con embarazos no deaseados.
+• La segunda prueba, la usuaria no comprendio que debía cifrar el texto y luego enviarlo, por lo cuál el botón de "Cifrar y enviar" se unieron.
+
+• En la tercera prueba, la usuaria indicó no haber leído el menú (al igual que la anterior al consultarle), por lo tanto se decidió darle más
+notoriedad al menú y posteriomente fue eliminado por completo, para que fuera más cómodo para las usuarias.
+
+• El cuarto test fue realizado con la aplicación web ya terminada y fue resgitrada en el siguiente vídeo:
+
+<video src=video/video1.mp4>
 
 
 # Problemática 🥀
@@ -91,5 +95,4 @@ En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tie
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
 
-
-<img src=images/imagen1.jpg>
+<img src=SCL010-Cipher/images/imagen1.jpg>
