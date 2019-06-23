@@ -11,15 +11,15 @@ La encriptación de la página será con el ingreso sólo de mayúsculas y sera 
 de la usuaria.
 
 
-# Instrucciones ✍
+## Instrucciones ✍
 Al ingresar a la página, se deberá leer un breve instructivo en la parte superior, que indica los datos a ingresar en la caja de texto de la parte de abajo, se solicitaran sólo mayúsculas y se le comunica a la usuaria que tras recibir el paquete solicitado, junto con él, llegará una carta que se deberá descifrar en la misma caja de texto, dandole click a l botón "Descifrar carta".
 
 
-# Usuarios obejtivos 👩
+## Usuarios obejtivos 👩
 Las usuarias objetivas serán mujeres con embarazos no deaseados.
 
 
-# Diseño 💟
+## Diseño 💟
 
 Para el diseño de la página se tomaron referencias de plantillas simples, para facilidad de uso y entendimiento para aquellas mujeres que 
 entendemos que estan pasando por momento de estrés, el color se hizo pensando en la sororidad y tranquilidad que queríamos transmitir.
@@ -30,7 +30,7 @@ idea se fue armando en el camino y el diseño fue una epifania.
 <img src=images/vrtemisvgif.gif>
 
 
-# Test de Usabilidad 👥
+## Test de Usabilidad 👥
 
 • La primera prueba fue con una mujer que comento ser dificíl de leer el instructivo en primera instancia ya que el parráfo era muy largo, al igual que los márgenes. Indico tambien que al solicitar datos especificos, sería más fácil hacer una lista de aquellos para poder re-leerla con
 mayor facilidad, por lo cuál se decidió generar parráfos y generar margenes para que fuera de lectura más fácil.
@@ -42,10 +42,9 @@ notoriedad al menú y posteriomente fue eliminado por completo, para que fuera m
 
 • El cuarto test fue realizado con la aplicación web ya terminada y fue resgitrada en el siguiente vídeo:
 
-<video src=video/video1.mp4  width="640" height="480"></video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/9e4986fac93d46aa83e3013df2eb68cd" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
-# Problemática 🥀
+## Problemática 🥀
 
 <strong> Comunicado de prensa conjunto de la OMS y el Instituto Guttmacher </strong>
 En todo el mundo se producen aproximadamente 25 millones de abortos peligrosos al año
@@ -89,9 +88,9 @@ Las mujeres, incluidas las adolescentes, con embarazos no deseados suelen recurr
 - Pruebas médicas innecesarias que retrasan la atención.
 
 
-# Solución 🌹
+## Solución 🌹
 En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tienen los recursos para acceder a un procedimiento
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
 
-<img src=SCL010-Cipher/images/imagen1.jpg  width="640" height="480">
+<img src=images/imagen2.jpg  position: center>
