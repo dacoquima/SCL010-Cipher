@@ -42,7 +42,7 @@ notoriedad al menú y posteriomente fue eliminado por completo, para que fuera m
 
 • El cuarto test fue realizado con la aplicación web ya terminada y fue resgitrada en el siguiente vídeo:
 
-<iframe src="https://www.loom.com/embed/9e4986fac93d46aa83e3013df2eb68cd"></iframe>
+<video src="https://www.loom.com/embed/9e4986fac93d46aa83e3013df2eb68cd"></video>
 
 ## Problemática 🥀
 
@@ -93,4 +93,4 @@ En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tie
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
 
-<img src=images/imagen2.jpg margin-left: 15%>
+<img src=images/imagen2.jpg>
