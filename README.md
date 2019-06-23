@@ -14,7 +14,7 @@ de la usuaria.
 Al ingresar a la página, se deberá leer un breve instructivo en la parte superior, que indica los datos a ingresar en la caja de texto de la parte de inferior, se solicitaran sólo mayúsculas y se le comunica a la usuaria que tras recibir el paquete solicitado, junto con él, llegará una carta que se deberá descifrar en la misma caja de texto, dándole click al botón "Descifrar carta".
 
 
-## Usuarios obejtivos 👩
+## Usuarios objetivos 👩
 Las usuarias objetivas serán mujeres con embarazos no deaseados, que busque pastillas para abortar y/o soporte psicoemocional.
 
 
