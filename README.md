@@ -1,8 +1,8 @@
 # 🌿C O L E C T I V O   V R T E M I S V 🌿
 
-La página web de Coletivo Artemisa, es una página web de distribución de pastillas abortivas gratuitas, para ayudar a las mujeres que deseen terminar con su embarazo sin importar su caso. La página consta de de un instrucctivo simple y una caja de texto dónde las mujeres deben enviar sus datos atráves de un mensaje encriptado. Al pasar unas semanas, recibirán el paquete con pastillas a la dirección indicada, junto a una carta
-cifrada que deberan descifrar en la caja de texto anteriormente mencionada, ahí encontrará el instructivo de las pastillas, cuidados previos y posteriores al aborto, y usuario de telegram de alguna doula si es que así fue solicitada, esta puede ser online (chat) o presencial, previo 
-al aborto, durante y posterior al procedimiento conforme al acuerdo mutuo de la parte y voluntad de nuestras voluntarias como doulas.
+La página web de Coletivo Artemisa, es una página de distribución de pastillas abortivas gratuitas, para ayudar a las mujeres que deseen terminar con su embarazo sin importar su caso. Esta consta de de un instructivo simple y una caja de texto donde las mujeres deben enviar sus datos a tráves de un mensaje encriptado. Al pasar algunas semanas, recibirán el paquete con pastillas a la dirección indicada, junto a una carta
+cifrada que deberan descifrar en la caja de texto anteriormente mencionada, ahí encontrarán el instructivo de las pastillas, cuidados previos y posteriores al aborto, y usuario de telegram de alguna doula si es que así fue solicitada, esta puede ser online (chat) o presencial, previo 
+al aborto, durante y posterior al procedimiento conforme al acuerdo mutuo de las partes, voluntad y tiempo disponible de las doulas.
 
 La página se compromete a resguardar los datos de todas las mujeres que soliciten nuestra ayudan y por lo tanto, todos los datos son encriptados 
 y la página es de difución de boca en boca, sin pubclidad, y su ingreso será solicitado a través de Thor.
@@ -43,6 +43,7 @@ notoriedad al menú y posteriomente fue eliminado por completo, para que fuera m
 • El cuarto test fue realizado con la aplicación web ya terminada y fue resgitrada en el siguiente vídeo:
 
 https://www.loom.com/share/9e4986fac93d46aa83e3013df2eb68cd
+
 
 ## Problemática 🥀
 
@@ -92,4 +93,3 @@ Las mujeres, incluidas las adolescentes, con embarazos no deseados suelen recurr
 En Vrtemisv provee de pastillas misopostrol para ayudar a las mujeres que no tienen los recursos para acceder a un procedimiento
 clínico, en dónde el estado, les niega la posibilidad de un aborto gratuito y seguro, a tener un aborto lo más seguro posible en casa, 
 con apoyo de ginécologas, matronas, psicológas y terapeutas, dandóles las indicaciones especificas de cada paso a seguir, previos y posteriores al aborto, todo esto de una manera ánonima y confidencial.
-<img src=images/imagen1.jpg width="1593" height="905">
